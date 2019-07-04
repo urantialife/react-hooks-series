@@ -8,3 +8,4 @@ Find any issues or have ideas for tutorials? Open an issue and let me know!
 
 - [Simple Animations with React Hooks](src/useAnimation.js)
 - [Keyboard Input with React Hooks](src/useKey.js)
+- [Hover States with React Hooks](src/useHover.js)
